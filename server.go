@@ -1,4 +1,4 @@
-//Golang HTTP server
+// Golang HTTP server for testing
 
 package main
 
